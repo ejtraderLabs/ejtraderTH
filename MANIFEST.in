@@ -1,0 +1,3 @@
+nclude LICENSE
+include README.rst
+include *.txt
