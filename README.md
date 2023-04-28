@@ -1,3 +1,8 @@
+
+![Pypi Publish](https://github.com/ejtraderLabs/ejtraderTH/actions/workflows/python-publish.yml/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ejtraderLabs/ejtraderTH)
+[![License](https://img.shields.io/github/license/ejtraderLabs/ejtraderTH)](https://github.com/ejtraderLabs/ejtraderTH/blob/master/LICENSE)
+
 ```python
 pip install ejtraderTH
 ```
